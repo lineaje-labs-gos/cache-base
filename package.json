@@ -1,14 +1,21 @@
 {
   "name": "cache-base",
   "description": "Basic object cache with `get`, `set`, `del`, and `has` methods for node.js/javascript projects.",
-  "version": "4.0.0",
+  "version": "4.0.0-lineaje-01",
   "homepage": "https://github.com/jonschlinkert/cache-base",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
     "Jon Schlinkert (http://twitter.com/jonschlinkert)",
-    "(https://github.com/wtgtybhertgeghgtwtg)"
+    "(https://github.com/wtgtybhertgeghgtwtg)",
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
-  "repository": "jonschlinkert/cache-base",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/cache-base"
+  },
   "bugs": {
     "url": "https://github.com/jonschlinkert/cache-base/issues"
   },
